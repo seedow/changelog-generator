@@ -1,0 +1,14 @@
+{
+  "name": "changelog-generator",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexandru.nita@siveco.ro",
+  "license": "BSD",
+  "dependencies": {
+    "conventional-changelog": "0.0.8",
+    "nomnom": "~1.6.2"
+  }
+}
